@@ -49,7 +49,9 @@ app-config.conf
 
 Find all log files modified 24 hours ago, and zip them.
 Create a shell script for the above.
-Run it as a background daemon and it should not get killed
+Run it as a background daemon and it should not get killed.
+
+End result will be a shell script which will have all the above tasks covered and should be in executable format and should run with ./ invocation.
 
 
 ### Programming Challenge
