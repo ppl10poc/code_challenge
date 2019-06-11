@@ -28,7 +28,7 @@ Below challenges can be done on any environment and is pretty platform agnostic,
 3. Once done, all challenge folder can be left as it is and no need to zip or tar them back again unless they need to be mailed back if required.
 4. Dont assume anything, ask everything, if anything is not clear with the below challenges. Mostly below is self sufficient and should be finished within the timilines provided.
 5. All below challenges needs to be completed to qualify for the next rounds.
-6. All code can be submitted to "https://github.com/ppl10poc/code_challenge", please create folder by your name and push it here with your codes.
+6. All code can be submitted to "https://github.com/ppl10poc/code_challenge", please create folder by your name and push it here with your codes. Username: ppl10poc, password: tbn(to be notified during the challenge by the proctor)
 
 ## The Challenges
 
