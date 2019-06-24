@@ -1,0 +1,18 @@
+---
+- hosts: webservers
+  remote_user: root
+
+  tasks:
+  - name: apache latest version
+    yum:
+      name: httpd
+      state: latest
+  - name: config file
+    template:
+      src: /srv/httpd.j2
+
+      dest: /etc/httpd.con
+   service:
+      name:httpd 
+
+      state: started
